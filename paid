@@ -7,7 +7,7 @@ local Window = Rayfield:CreateWindow({
     Name = "Vision Hub",
     LoadingTitle = "Vision Script",
     LoadingSubtitle = "by Vision",
-    ConfigurationSaving = { Enabled = false },
+    ConfigurationSaving = { Enabled = true },
     Discord = {
         Enabled = true,
         Invite = "GYH92be25Z",
